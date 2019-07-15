@@ -1,2 +1,2 @@
 # Limb_Darkening
-Utilities for using EXOFAST and IDL
+Obtaining limb darkening coefficients using Jupyter Notebook
